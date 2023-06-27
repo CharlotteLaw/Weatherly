@@ -1,17 +1,13 @@
 # Weatherly
 A web application tells you the current temperature and weather condition of any city of your choice.
 
-
-
 **Back End**  
-• Programmed using Python  
-• Used Flask as a backend framework to retrieve user input and display chatbot output   
-• Integrated MySQL to create a database to store user's messages and the chatbot's responses  
-• Integrated OpenAI's GPT-3 open-source language model API using python to generate contextual responses
+• Programmed using javascript  
+• Integrated Open Weather Map's API to access weather information worldwide
 
 **Front End**  
 • Programmed using HTML and CSS  
-• Used Flask to return HTML and CSS as the web application
+• Used ejs to return HTML and CSS
 
 ** **
   
