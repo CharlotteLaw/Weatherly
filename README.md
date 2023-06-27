@@ -18,10 +18,12 @@ A web application which allows users to tyoe in any city and get information abo
 
 1. Create a folder titled "Weatherly"
 2. Download all the files and store them under the "Weatherly" folder
-3. Open Terminal
-4. `cd` into the Weatherly folder
-5. run `node index.js`
-6. Use browser to connect to `http://localhost:4000/` to interact with web application  
+3. Navigate to `https://openweathermap.org/`, create an account or sign in
+4. Create an API key at `https://home.openweathermap.org/api_keys`
+5. Open Terminal
+6. `cd` into the "Weatherly" folder
+7. run `node index.js`
+8. Use browser to connect to `http://localhost:4000/` to interact with web application  
 
 
 
