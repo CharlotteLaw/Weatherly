@@ -2,7 +2,7 @@
 A web application which allows users to tyoe in any city and get information about the current temperature and weather condition of the requested city.
 
 **Back End**  
-• Programmed using javascript  
+• Programmed using Javascript (Node.js)  
 • Integrated Open Weather Map's API to access weather information worldwide
 
 **Front End**  
