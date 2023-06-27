@@ -4,7 +4,8 @@ const request = require('request');
 
 const app = express();
 
-const apiKey = '11c06930ab909a5a69db24fadc5a0bef';
+const apiKey = '***';
+//Create an account and generate your own API key here => https://openweathermap.org/
 
 app.use(express.static('public'));
 app.use(bodyParser.urlencoded({extended:true}));
