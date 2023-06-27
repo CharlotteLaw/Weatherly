@@ -1,5 +1,5 @@
 # Weatherly
-A web application which allows users to tyoe in any city and get information about the current temperature and weather condition of the requested city.
+A web application that allows users to tyoe in any city and get information about the current temperature and weather condition of the requested city.
 
 **Back End**  
 • Programmed using Javascript (Node.js)  
@@ -11,8 +11,6 @@ A web application which allows users to tyoe in any city and get information abo
 
 ** **
   
-
-    
     
 # How To Run The Program
 
@@ -22,7 +20,7 @@ A web application which allows users to tyoe in any city and get information abo
 4. Create an API key at `https://home.openweathermap.org/api_keys`
 5. Open Terminal
 6. `cd` into the "Weatherly" folder
-7. run `node index.js`
+7. Run `node index.js`
 8. Use browser to connect to `http://localhost:4000/` to interact with web application  
 
 
