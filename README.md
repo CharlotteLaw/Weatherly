@@ -7,7 +7,7 @@ A web application that allows users to tyoe in any city and get information abou
 
 **Front End**  
 • Programmed using HTML and CSS  
-• Utilized EJS to return HTML and CSS
+• Utilized EJS to embed JS within HTML
 
 ** **
   
