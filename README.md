@@ -1,5 +1,5 @@
 # Weatherly
-A web application that allows users to tyoe in any city and get information about the current temperature and weather condition of the requested city.
+A web application that allows users to type in any city and get information about the current temperature and weather condition of the requested city.
 
 **Back End**  
 • Programmed using Javascript (Node.js)  
